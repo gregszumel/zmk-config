@@ -8,8 +8,8 @@
 #endif
 
 #include "helper.h"
-#include "../zmk-nodefree-config/international_chars/greek.dtsi"
-#include "../zmk-nodefree-config/international_chars/german.dtsi"
+#include "greek.dtsi"
+#include "german.dtsi"
 
 #define DEF 0
 #define NAV 1
